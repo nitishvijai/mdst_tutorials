@@ -1,0 +1,10 @@
+# List of files to ignore:
+
+env/
+data/
+tutorial1/
+tutorial2/
+
+*.ipynb_checkpoints
+.ipynb_checkpoints/
+__pycache__/
